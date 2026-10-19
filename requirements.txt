@@ -1,0 +1,2 @@
+# Picamera2 is provided by Raspberry Pi OS, not installed from PyPI.
+# Install it with: sudo apt install python3-picamera2
