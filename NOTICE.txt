@@ -1,0 +1,1 @@
+This product bundles picamera2, which is available in BSD-2-Clause License. For details, see raspberrypi/picamera2
